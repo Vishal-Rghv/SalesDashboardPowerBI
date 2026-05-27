@@ -24,7 +24,14 @@ This Power BI dashboard analyzes company sales, profit, yearly trends, and produ
 ---
 
 ## Dashboard Screenshots
-
+#DB: 1
+ScreenShot/Db1.png
+#DB: 2
+ScreenShot/Db2.png
+#DB: 3
+ScreenShot/Db3.png
+#DB: 4
+ScreenShot/Db4.png
 
 
 ---
